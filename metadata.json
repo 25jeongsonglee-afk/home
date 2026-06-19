@@ -1,0 +1,6 @@
+{
+  "name": "AI 홈페이지 제작 스튜디오",
+  "description": "3일 안에 반응형 홈페이지를 제작해 드리는 AI 기반 웹 제작 스튜디오입니다. 포트폴리오 조회, 가견적 확인, 제작 신청 및 실시간 진행률 확인을 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
